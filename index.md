@@ -13,11 +13,11 @@ I am a recent graduate from the University of Tennessee at Martin with a BA in C
 
 ### Projects on GitHub
 
-2D Game Engine and College Senior Project: [Link](https://github.com/SkinlessMilk3/Game-Engine)
+[2D Game Engine and College Senior Project](https://github.com/SkinlessMilk3/Game-Engine)
 
-Top-down Shooter game from scratch with C# and WPA for Software Engineering Class: [Link](https://github.com/ColeDavis213/2DTDS)
+[Top-down Shooter game from scratch with C# and WPA for Software Engineering Class](https://github.com/ColeDavis213/2DTDS)
 
-Personal, Small Exploration Game, Midnight Stroll, made with GameMaker Studios 2: [Link](https://github.com/ColeDavis213/Midnight-Stroll-Game-)
+[Personal, Small Exploration Game, Midnight Stroll, made with GameMaker Studios 2](https://github.com/ColeDavis213/Midnight-Stroll-Game-)
 
 Projects not on GitHub: Landmark Locator as mentioned in resume, and FitBit apps also mentioned in my resume along with other small personal projects such as games and small bots.
 
