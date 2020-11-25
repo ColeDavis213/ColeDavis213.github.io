@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Cole Davis's Portfolio
 
-You can use the [editor on GitHub](https://github.com/ColeDavis213/ColeDavis213.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a recent graduate from the University of Tennessee at Martin with a BA in Computer Science. I am currently interested in going into the software development field and I am excitingly learning new things to better prepare me for it, in school and out. I also have over a year of customer service experience through my time at a local Pizza Hut, and I am currently getting more specific job-related experience as an IT intern at the Discovery Park of America in Union City, TN. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Resume
 
-### Markdown
+![Image](https://imgur.com/a/zxNjjys)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
