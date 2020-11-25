@@ -8,32 +8,17 @@ I am a recent graduate from the University of Tennessee at Martin with a BA in C
 
 ![Image](https://i.imgur.com/hJGQhvY.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](https://i.imgur.com/Xw7tWkR.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Projects on GitHub
 
-- Bulleted
-- List
+2D Game Engine and College Senior Project: [Link](https://github.com/SkinlessMilk3/Game-Engine)
+Top-down Shooter game from scratch with C# and WPA for Software Engineering Class: [Link](https://github.com/ColeDavis213/2DTDS)
+Personal, Small Exploration Game, Midnight Stroll, made with GameMaker Studios 2: [Link](https://github.com/ColeDavis213/Midnight-Stroll-Game-)
 
-1. Numbered
-2. List
+Projects not on GitHub: Landmark Locator as mentioned in resume, and FitBit apps also mentioned in my resume along with other small personal projects such as games and small bots.
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ColeDavis213/ColeDavis213.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Best way to contact me is to email my personal email ColeDavis2133@gmail.com!
