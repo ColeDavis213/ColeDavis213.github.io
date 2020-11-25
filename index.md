@@ -1,10 +1,12 @@
-## Cole Davis's Portfolio
+## Cole Davis's Portfolio (WIP)
+
+### About Me
 
 I am a recent graduate from the University of Tennessee at Martin with a BA in Computer Science. I am currently interested in going into the software development field and I am excitingly learning new things to better prepare me for it, in school and out. I also have over a year of customer service experience through my time at a local Pizza Hut, and I am currently getting more specific job-related experience as an IT intern at the Discovery Park of America in Union City, TN. 
 
 ### Resume
 
-![Image](https://imgur.com/a/zxNjjys)
+![Image](https://i.imgur.com/hJGQhvY.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
